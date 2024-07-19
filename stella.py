@@ -12,4 +12,8 @@ for number in listOfNumber:
   sum = sum + number
 
 
+print("Total sum is: ")
+
 print(sum)
+
+print("Have an awesome coding day!!")
